@@ -1,1 +1,1 @@
-Initial commit
+# Website for Economy of Humanity
